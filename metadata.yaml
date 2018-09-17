@@ -1,0 +1,36 @@
+_repo: Second-Base-Sloan_52407
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Caswell, Edward C.
+    alias: Caswell, E. C. (Edward C.)
+    birthdate: 1879
+    deathdate: 1963
+    gutenberg_agent_id: '31826'
+    url: http://www.gutenberg.org/2009/agents/31826
+creator:
+  author:
+    agent_name: Mathewson, Christy
+    aliases:
+    - Mathewson, Christopher
+    - Mathewson, Matty
+    birthdate: 1880
+    deathdate: 1925
+    gutenberg_agent_id: '36313'
+    url: http://www.gutenberg.org/2009/agents/36313
+description: ''
+gutenberg_issued: '2016-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Baseball -- Juvenile fiction'
+- !lcsh 'Baseball stories'
+- GITenberg
+title: Second Base Sloan
+url: http://www.gutenberg.org/ebooks/52407
